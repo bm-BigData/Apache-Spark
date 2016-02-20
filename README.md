@@ -7,3 +7,8 @@
 5. http://www.zipfianacademy.com/blog/post/57158627293/how-to-data-science-mapping-sf-restaurant-inspection
 6. https://www.coursera.org/learn/hadoop/
 7. 
+
+
+##Other Useful Info
+1. http://programmers.stackexchange.com/questions/40454/what-is-a-closure
+2. 
