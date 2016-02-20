@@ -6,7 +6,10 @@
 4. https://sites.google.com/site/continuelearning/Home/introduction-to-spark-with-scala
 5. http://www.zipfianacademy.com/blog/post/57158627293/how-to-data-science-mapping-sf-restaurant-inspection
 6. https://www.coursera.org/learn/hadoop/
-7. 
+7. https://www.youtube.com/watch?v=rvDpBTV89AM
+8. http://www.meetup.com/Bangalore-Apache-Spark-Meetup/
+9. https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia
+10. 
 
 
 ##Other Useful Info
