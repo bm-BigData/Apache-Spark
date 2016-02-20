@@ -12,3 +12,8 @@
 ##Other Useful Info
 1. http://programmers.stackexchange.com/questions/40454/what-is-a-closure
 2. 
+
+
+##Page Rank
+1. http://www.mmds.org/
+2. 
