@@ -9,12 +9,14 @@
 7. https://www.youtube.com/watch?v=rvDpBTV89AM
 8. http://www.meetup.com/Bangalore-Apache-Spark-Meetup/
 9. https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia
-10. 
+10. https://github.com/JerryLead/SparkInternals/blob/master/markdown/english/0-Introduction.md :+1:
+11. https://sites.google.com/site/continuelearning/Home/introduction-to-spark-with-scala :+1:
+12. 
 
 
 ##Other Useful Info
 1. http://programmers.stackexchange.com/questions/40454/what-is-a-closure
-2. 
+2. https://databricks.com/blog/2016/02/17/introducing-databricks-community-edition-apache-spark-for-all.html :+1:
 
 
 ##Page Rank
